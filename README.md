@@ -1,62 +1,61 @@
-# I'm Vitória
+Hi, I'm Vitória 👋
 
-I'm a junior backend and database-focused developer with a strong interest in **SQL**, **data modeling**, and **backend logic**.  
-I enjoy building practical projects that simulate real-world systems and focus on clean, readable, and efficient solutions.
+I'm a Junior Backend Developer with a strong foundation in C#, .NET, SQL, and relational databases. I enjoy building backend systems, developing REST APIs, designing databases, and solving problems through clean and maintainable code.
 
----
+I'm particularly interested in backend development, data-driven systems, and database design, and I'm continuously improving my skills through hands-on development and real-world applications.
 
-## 🧠 About Me
+🧠 About Me
 
-- 💾 Focused on relational databases and SQL (PostgreSQL / SQL Server)
-- 🔍 Interested in data analysis, reporting, and backend systems
-- 🛠 Currently improving my skills in backend development (C# and SQL)
-- 📚 Passionate about learning through hands-on projects
-- 🌱 Always aiming to write clearer and more maintainable code
+- 💻 Junior Backend Developer focused on C# and .NET
+- 🗄️ Strong interest in SQL, relational databases, and data modeling
+- 🚀 Building REST APIs with ASP.NET Core
+- 🔗 Working with Entity Framework Core
+- 🐘 Experience with PostgreSQL and SQL Server
+- 🧩 Interested in backend architecture, business logic, and data persistence
+- 📚 Continuously learning through practical development
+- 🌱 Focused on writing clean, readable, and maintainable code
 
----
+🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+Languages
 
-- **Databases:** PostgreSQL, SQL Server  
-- **Languages:** SQL, C# (basic backend logic)  
-- **Tools:** VS Code, pgAdmin, SQL Server Management Studio  
-- **Version Control:** Git & GitHub  
+- C#
+- SQL
+- Java
 
----
+Backend
 
-## 📌 What I Work On
+- ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- Spring Boot
 
-- Relational database design
-- SQL queries (SELECT, JOIN, WHERE, GROUP BY)
-- Data aggregation and reporting
-- Views and triggers for business logic
-- Backend-oriented problem solving
+Databases
 
----
+- PostgreSQL
+- SQL Server
+- SQLite
 
-## 📂 Featured Projects
+Tools & Technologies
 
-- **SQL Advanced — Sales and Reporting System**  
-  Advanced SQL project using CTEs, Window Functions, Views, and Triggers to simulate a real-world sales system.
+- Git & GitHub
+- Swagger / OpenAPI
+- Visual Studio
+- Visual Studio Code
+- pgAdmin
+- SQL Server Management Studio
 
-- **SQL Intermediate — Library Management System**  
-  Project focused on JOINs, aggregations, subqueries, and relational modeling.
+🎯 Current Goals
 
-- **Backend Practice Projects (C# + SQL)**  
-  Small backend-oriented systems focused on logic, data persistence, and clean structure.
+- Grow as a Backend Developer
+- Deepen my knowledge of C#, .NET, and software architecture
+- Improve my skills in PostgreSQL and database design
+- Build production-oriented REST APIs
+- Gain professional experience in backend development
+- Continue learning and building practical software solutions
 
----
+📫 Let's Connect
 
-## 🎯 Goals
+💼 LinkedIn: "linkedin.com/in/vitoriasantoslopes" (https://linkedin.com/in/vitoriasantoslopes)
 
-- Grow as a backend and database developer
-- Gain real-world experience with data-driven systems
-- Build a strong portfolio focused on SQL and backend fundamentals
-
----
-
-## 📫 Let's Connect
-
-- 💼 GitHub: github.com/vislopes
-- 🔗 LinkedIn: linkedin.com/in/vitoriasantoslopes
-
+Thanks for visiting my GitHub! 🚀
