@@ -56,6 +56,6 @@ Tools & Technologies
 
 📫 Let's Connect
 
-💼 LinkedIn: "linkedin.com/in/vitoriasantoslopes"(https://www.linkedin.com/in/vitoria-lopes-1115b1179.com)
+💼 LinkedIn: "linkedin.com/in/vitoriasantoslopes"(linkedin.com/in/vitoria-lopes-1115b1179)
 
 Thanks for visiting my GitHub! 🚀
